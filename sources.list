@@ -1,0 +1,21 @@
+# Kali Rolling Official Repository
+deb http://http.kali.org/kali kali-rolling main contrib non-free
+# For source package access, uncomment the following line
+deb-src http://http.kali.org/kali kali-rolling main contrib non-free
+Retired Kali sana (2.0) 
+# Debian Stable Repository
+deb http://ftp.debian.org/debian stable main contrib non-free
+# Debian 9 "Stretch"
+deb http://httpredir.debian.org/debian/ stretch main contrib non-free
+# pichuang github
+deb http://kali.cs.nctu.edu.tw/ /kali main contrib non-free
+deb http://kali.cs.nctu.edu.tw/ /wheezy main contrib non-free
+deb http://kali.cs.nctu.edu.tw/kali kali-dev main contrib non-free
+deb http://kali.cs.nctu.edu.tw/kali kali-dev main/debian-installer
+deb-src http://kali.cs.nctu.edu.tw/kali kali-dev main contrib non-free
+deb http://kali.cs.nctu.edu.tw/kali kali main contrib non-free
+deb http://kali.cs.nctu.edu.tw/kali kali main/debian-installer
+deb-src http://kali.cs.nctu.edu.tw/kali kali main contrib non-free
+deb http://kali.cs.nctu.edu.tw/kali-security kali/updates main contrib non-free
+deb-src http://kali.cs.nctu.edu.tw/kali-security kali/updates main contrib non-free
+deb http://kali.cs.nctu.edu.tw/kali kali-bleeding-edge main
